@@ -1,0 +1,19 @@
+h1, h2, h4 {
+    line-height: 1px;
+}
+.headings {
+    background-color: black;
+    color: white;
+}
+.degree_name{
+    size: 15px;
+    text-size-adjust: 15px;
+    color :blue;
+}
+img{
+    width: 150px;
+    height: 150px;
+    }
+table {
+    border-spacing: 15px;
+}
